@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 #include <limits.h>
-#include<math.h>
+#include <math.h>
 
 //MrHaddis
 //https://github.com/MrHaddis/PAT1013
